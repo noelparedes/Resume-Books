@@ -1,15 +1,15 @@
 <!-- Logo (with link) -->
 <p align="center">
- <a href="https://noelparedes.github.io/Resume-Books/">
-   <img alt="how to live" src="https://github.com/noelparedes/Resume-Books/blob/main/asserts/open-book.png" width="100" />
+ <a href="https://noelparedes.github.io/book-summaries/">
+   <img alt="how to live" src="https://github.com/noelparedes/book-summaries/blob/main/asserts/open-book.png" width="100" />
  </a>
 </p>
 <!-- Title -->
 <h1 align="center">
-Resume books
+Books Summaries
 </h1>
 
-A collection of some resume books I have read lately. I hope this collection can help someone and if you have some advice let me know<a href="https://noelparedes.github.io/Resume-Books/"> Have a look of them here.</a>
+A collection of some resume books I have read lately. I hope this collection can help someone and if you have some advice let me know<a href="https://noelparedes.github.io/book-summaries/"> Have a look of them here.</a>
 
 This is a collection of some of the books I read.
 
