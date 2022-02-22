@@ -1,8 +1,8 @@
 module.exports = {
   main: {
     name: 'Book summaries',
-    basePath: 'https://noelparedes.github.io/book-summaries/',
-    repo: 'https://noelparedes.github.io/book-summaries/',
+    basePath: 'https://github.com/noelparedes/book-summaries/tree/main/docs',
+    repo: 'https://github.com/noelparedes/book-summaries',
     loadSidebar: true,
     alias: {
       '/.*/_sidebar.md': '/_sidebar.md',
