@@ -1,8 +1,18 @@
-# Books Summaries
+<!-- Logo (with link) -->
+<p align="center">
+ <a href="https://noelparedes.github.io/book-summaries/">
+   <img alt="how to live" src="https://raw.githubusercontent.com/noelparedes/book-summaries/main/main/assets/open-book.png" width="100" />
+ </a>
+</p>
 
-# This is a collection bo some of the books I read
+<!-- Title -->
+<h1 align="center">
+ Book Sentences
+</h1>
 
+<p align="center">
 A collection of some resume books I have read lately. I hope this collection can help someone and if you have some advice let me know<a href="https://noelparedes.github.io/book-summaries/"> Have a look of them here.</a>
+</p>
 
 This is a collection of some of the books I read.
 
