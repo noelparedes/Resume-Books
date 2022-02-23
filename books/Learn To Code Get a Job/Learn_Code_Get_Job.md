@@ -56,34 +56,18 @@ There are some terminology that you must be familiar with in a way to get in con
 
 1. You need to understand the options available to you for software development jobs.
    The field of software development is not just about being a coder, there hundreds of vertical options you can work in ant thousand of ways to specialize in the industry. Keep in mind that all of this jobs and types of companies can be repeat it.
+
    **Types of Companies**
 
-   - **Tech:** Companies whose primary products are software or hardware applications are called tech companies. Eg.
-     - Facebook.
-     - Apple.
-     - Amazon.
-     - Netflix.
-   - **Corporations:** Are companies with a least 1000 employees some of the benefit of working at these types of companies are.
-     - Have a dedicated budgets for training.
-     - Pay larger salaries.
-     - Have plenty opportunities to growth.
-     - Look great on your resume.
-   - **Mid-side:** Are the most stable and conservative option, and have anywhere from 100-1000 employees. One perk of working for a mid-sized company is the flexibility the offer their employees.
-   - **Startups & Small companies:** Usually have less than 1000 employees and have only been in business for a few years, making them the most volatile types of companies to work for.
-   - **Consulting agencies:** Are companies sometimes small companies that bring professional services of tech. If you work for a consulting agency, your might switch projects every six months to one year and will get to work for many different bosses, reputable consulting companies will let you change project when you start to feel bored or burned out.
-
-     There are two main types of work you will do at a consulting agency:
-
-     1. Staff Augmentation, you'll work with a team of internal employees onsite at a software company, or a company that specializes in another product but has some programmers on staff.
-     2. Outsource projects, this will entail working internally with other employees of your consulting agency and is preferable for staff of augmentation because you're working directly for your employer without the middleman.
-
+   - **Tech:**
+   - **Corporations:**
+   - **Mid-side:**
+   - **Startups & Small companies:**
+   - **Consulting agencies:**
    - **Types of Developer jobs**
    - **Internal employee**
-     - Full time or part-time employment is the most common type of job you will be searching for.
-       - Working in a part time you might not be eligible for the same benefit as a full-time employee.
-       - Even though these jobs offer a lot of stability, they can become monotonous.
-   - **Consultant** are viewed as industry experts with a wealth of experience in a certain profession or industry, but this outlook is not necessarily true anymore.
-   - **Contractor** It may be tempting to work for yourself, being a contractor is not for everyone. Contract work can be less stable, and your will have to pay self-employment taxes.
+   - **Consultant**
+   - **Contractor**
 
 2. You need to choose a specialty; what type of applications you are going to build or ecosystem you want to work in.
    Here an overview to the main type of software development that you might want to work in. This will also give you an idea of keywords that you can look for when researching job postings.
@@ -100,23 +84,73 @@ There are some terminology that you must be familiar with in a way to get in con
    - **Cutting edge industries**
    - **Gaming**
 3. You need to choose your a language.
+
    **Should I Specialize or be a Generalist?**
+
    - The answer isn't black and white. If your goal is to find a job as quickly as possible, you have to be flexible enough to pick up whatever new technologies and employer might use. On the other hand, if your skill set is too broad, you will not have anything substance to show off in your portfolio and employers might view you as two junior ot be hirable.
-   * It is recommended to be **_specialize_** in a language and a few frameworks (one or two) and tools to go along with that language.**_Generalize_** in the ecosystem that you are working in (e.g. web development). Putting this in practice allow you specialize enough to be able to build robust applications in your chosen language and ecosystem. resulting in a more impressive portfolio.
+
+   - It is recommended to be **_specialize_** in a language and a few frameworks (one or two) and tools to go along with that language.**_Generalize_** in the ecosystem that you are working in (e.g. web development). Putting this in practice allow you specialize enough to be able to build robust applications in your chosen language and ecosystem. resulting in a more impressive portfolio.
+
 4. You need to create your curriculum.
+
+   - The main purpose of this part of this is make you hireable as soon as possible, you need to build something to show with you technical skill you don't have to be a master, the best way to show your curriculum is building a portfolio.
+
 5. You need to make a study plan.
+
+   - One of the good things about software is that you don't need a degree to get hire, in this part of the book you going to find some plan that you can follow to prepare you to get a job. All depends on your circumstances and you personality, you have to choose the plan who work for you.
+
 6. You need to take action.
 
-Those are the steps that is takes to get started on your journey. Later on you can this book talk about everything else networking, building a portfolio, job hunting, etc. Depending on what area you want to be working you would like one more than the other.
+1- Select the pathway that works best for you.
+2- Spend some time doing research.
 
-**Beginning is Great**
+**Terms to learn**
 
-**The Beginning is the most important part of the work**
-
-**Plato, The Republic**
-
-One of the goal of this book is make you hireable as soon a possible. Must of the recommendations of this book is to give you an idea of what you will be facing.
+**_Minimum Viable Product(MVP)_**
 
 In software development there is a terms that you must know to understand that a software doesn't have to be full complete in order to be useful, Minimum Viable Product(MVP) this allows you to start your product and start growing from there.
 
 What the author mean by this is that you need to start coding as soon as possible! Don't spend too much time researching or learning theory, jump in and learn as you go.
+
+**Research and Planning**
+
+"If you fail to plan, you are planning to fail." **Benjamin Franklin**
+
+- Step 1:Find Your Why(Knowing _why_ you want to learn programming is the first step.)
+- Step 2:Industry Research(Finding the area where you want to work in put you in the way.)
+- Step 3:Goal Setting(Set reachable goal, don't put a hard goal.)
+- Step 4:Choose a stack(You might think that you need to know everything to start but that is not the reality.)
+
+**Recommendation**
+
+**Learning a New Concept from the author**
+
+1. Tutorial 1
+2. Tutorial 2
+
+Practice Concept x
+
+1. Project 1
+
+1. Tutorial 3
+1. Tutorial 4
+
+Practice Concept Y
+
+1. Project 1
+
+**Preparation for learning**
+
+1. Define a time to study
+2. Take note(Coding involves many complex processes, and without regular review, it is difficult to retain all the concepts )
+3. Spaced Repetition Learning( is a technique that incorporates increasing intervals onf time between subsequent review of previously learn material in order to exploit the psychological spacing effects.)
+4. Planning Sessions(block everything that can distract you)
+5. Study Session(You need to know what you going to study.)
+
+**Tip: Timers and the pomodoro technique**
+
+Mel Robbins,(The Five Second Rule)
+
+**Tip: Avoiding Burnout**
+
+Burnout is when you feel drained and lethargic, like you cannot continue.
