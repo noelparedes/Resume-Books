@@ -7,7 +7,7 @@
 
 <!-- Title -->
 <h1 align="center">
- Book Sentences
+ Book Summaries
 </h1>
 
 <p align="center">

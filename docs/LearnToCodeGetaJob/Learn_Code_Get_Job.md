@@ -9,9 +9,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-
 - [Chapter 1](#chapter1)
-  - Information & Planning
+- [Chapter 2](#chapter2)
 
 Introduction
 
@@ -148,3 +147,7 @@ Mel Robbins,(The Five Second Rule)
 **Tip: Avoiding Burnout**
 
 Burnout is when you feel drained and lethargic, like you cannot continue.
+
+# <center>**Chapter 2**</center>
+
+## **Learning**<br><br>
