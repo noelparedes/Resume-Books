@@ -1,7 +1,7 @@
 <!-- Logo (with link) -->
 <p align="center">
  <a href="https://noelparedes.github.io/book-summaries/">
-   <img alt="how to live" src="https://raw.githubusercontent.com/noelparedes/book-summaries/main/main/assets/open-book.png" width="100" />
+   <img alt="how to live" src="https://raw.githubusercontent.com/noelparedes/book-summaries/main/assets/open-book.png" width="100" />
  </a>
 </p>
 
