@@ -9,8 +9,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Chapter 1](#chapter1)
-- [Chapter 2](#chapter2)
+  [Chapter 1](#chapter1)
+  [Chapter 2](#chapter2)
 
 Introduction
 
