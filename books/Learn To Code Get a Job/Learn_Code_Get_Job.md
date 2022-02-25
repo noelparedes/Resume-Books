@@ -6,7 +6,7 @@ Genre: ['Self-help', 'Productivity', 'Personal Growth']
 
 ![Cover](./assets/cover.jpg)
 
-# Learn to Code. Get a Job.
+# Learn to Code Get a Job.
 
 # Author
 
@@ -14,12 +14,11 @@ Genre: ['Self-help', 'Productivity', 'Personal Growth']
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+  - [Introduction](#introduction)
+  - [Information & Planning](#Information-&-Planning)
+  - [Learning](#Learning)
 
-- [Chapter 1](#chapter1)
-  - Information & Planning
-
-Introduction
+## Introduction
 
 The journey to become a programmer could be overwhelming for someone who is starting now. There are many question to answer that many people waste time to just studying up and learning methods and then giving up in frustration. The idea of this book is to give us a simplified step-by-step approach that you can follow to prepare for a job.
 
@@ -44,9 +43,7 @@ There are some terminology that you must be familiar with in a way to get in con
 - **Tech stack** refers to the languages, technologies, and related tools used in specific project or company.
 - **Repository**(repo) is a place where the files and folders of a piece of software are hosted online. Storing code in repositories could be helpful in the way of keep a track of your code and also can be share with other software developers.<br><br>
 
-# <center>**Chapter 1**</center>
-
-## **Information & Planning**<br><br>
+## Information & Planning
 
 > ### **RECOMMENDATIONS FOR STARTING**
 >
@@ -154,3 +151,5 @@ Mel Robbins,(The Five Second Rule)
 **Tip: Avoiding Burnout**
 
 Burnout is when you feel drained and lethargic, like you cannot continue.
+
+## Learning

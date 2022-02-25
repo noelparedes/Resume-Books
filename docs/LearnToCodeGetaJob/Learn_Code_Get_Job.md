@@ -1,6 +1,6 @@
 ![Cover](./assets/cover.jpg)
 
-# Learn to Code. Get a Job.
+# Learn to Code Get a Job.
 
 # Author
 
@@ -9,10 +9,12 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Chapter 1](#chapter1)
-- [Chapter 2](#chapter2)
-
-Introduction
+- [Information and Planning](#information-and-planning)
+- [Learning](#learning)
+   -[Project Planning](#project-planning)
+   -[How to learn computer languages](#how-to-learn-computer-languages)
+   -[Open Source projects](#open-source-project)
+## Introduction
 
 The journey to become a programmer could be overwhelming for someone who is starting now. There are many question to answer that many people waste time to just studying up and learning methods and then giving up in frustration. The idea of this book is to give us a simplified step-by-step approach that you can follow to prepare for a job.
 
@@ -37,9 +39,7 @@ There are some terminology that you must be familiar with in a way to get in con
 - **Tech stack** refers to the languages, technologies, and related tools used in specific project or company.
 - **Repository**(repo) is a place where the files and folders of a piece of software are hosted online. Storing code in repositories could be helpful in the way of keep a track of your code and also can be share with other software developers.<br><br>
 
-# <center>**Chapter 1**</center>
-
-## **Information & Planning**<br><br>
+## Information and Planning
 
 > ### **RECOMMENDATIONS FOR STARTING**
 >
@@ -148,6 +148,78 @@ Mel Robbins,(The Five Second Rule)
 
 Burnout is when you feel drained and lethargic, like you cannot continue.
 
-# <center>**Chapter 2**</center>
+## Learning
 
-## **Learning**<br><br>
+Learning Through Building
+
+>Note: By bringing real-life context and technology to the curriculum through a project-based learning approach, students are encouraged to become independent workers, critical thinkers, and lifelong learners.  By Edutopia.org.
+
+Project are the visible proof of what you have learned. The recommendation of the author it is every project you build can go to a portfolio. In this chapter the author give you some advice on planning, building, and finishing projects.
+
+### Project Planning
+
+   The best way to start a project it is by setting goals and user stories, then a list of requirements and simple mockups, and finally have a list of actionable tasks. You can have a card with some of the things you are working in for example:
+
+   ![Kanban](./assets/kanban.jpg)
+
+   **Project planning Steps:**
+
+   1- Write down the ideas and goals for the applications.
+   2- Create user stories. Users story is a statement like "as a [user], I want [som ability]in order to [do something]." The purpose is to answer who, what, and why. Eg: As a teacher, I want to be able to digitally manage my students' attendance record in order to become more efficient. 
+   3- Write down  the list of requirement needed for the desires outcomes from the user stories, every piece of the app you need to build. The requirements should answer the question of "how" your will implement your feature.
+   4- Draw a mockups for each of your screens. 
+   5- Based on your requirements, decide which features need built first and break tha process down in steps, create tasks based on those steps.
+
+   > Tips: Tasks should be actionable in the book "**_Getting things done_** recommended book" By David Allen, he recommends beginning all your tasks with an action word, like "walk the dog" or "wash the car". 
+
+ **Finishing the projects that you start**
+ "Forcing yourself to jus focus on on project at a time and no abandon it and switch to another one, that's the real important [part] of being able to finish project."
+  
+  The author recommend to list all the project you want to build and just work in one at the time maximum two. 
+
+  **Project advice**
+
+  1- Make you that you have a place where you going to host you project
+  2- Challenge yourself to optimize the websites an applications you build. 
+  3- Stay curios and always ask why something work the way it does. 
+  
+### How to learn computer languages
+
+Once you decide to learn a language you need to understand certain thing. Computers are build to follow your instructions.
+
+**The fundamentals**
+
+1- Learn the syntax(Variables, dataTypes, operations, conditionals, and functions etc.) 
+
+As programmer you should be a problem solver it doesn't have to be a math guru but know about arithmetic 
+
+When you start coding you should develop a programer mindset. The best way to learn to code is to break things, to ask yourself "What if..?"
+
+The biggest problem the vast majority of programmer it is not understanding the problem but solve it. 
+
+Some step to solve problem 
+
+1- Understand the problem
+2- Break the problem upo into small, manageable steps. 
+3- Write pseudocode for de logical steps. 
+
+Debugging(the act of attempting to fix bugs).
+
+Leveling up
+
+1- you can reach that next level by practicing your problem solving and debuggins skills
+
+Here you have something to keep in mind in other to reach the next level.
+* Always Try to think in terms of challenges, not annoyances.
+* Learn programming patterns and paradigms 
+* Learn Algorithms
+* Learn computer Science 
+* Learn how to write test for your code.
+* Practice reading documentation
+* Read lot of other people's code 
+* Practice reading source code
+* Learn some digital Security basics.
+* Read books about concepts and techniques.
+* Watch conference talks.
+
+### Open Source project 
