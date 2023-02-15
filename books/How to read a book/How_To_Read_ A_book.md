@@ -23,7 +23,7 @@ Genre: ['Self-help','Personal Growth']
 
 ### What are some reason  to rewrite the book for the present generation of reader?
 
- The reason for doing so lie in changes tha have taken place both in our society in the las thirty year.
+ The reason for doing so lie in changes that have taken place both in our society in the las thirty year.
  1- Today many more of the young men and women  who complete high school enter and complete for year of college
  2- A much larger proportion of the population has become literate in spite of or even because of the popularity of radio and television.
 
@@ -70,7 +70,12 @@ Adults in large numbers have been captivated by the glittering promises made by 
 
   **The Goals of Reading: Reading for Information and Reading for Understanding**
 
-  There is the book; and here is your mind. As you go through the pages, either you understand perfectly everything the author has to say or you do not. If you do, you may have gained information, but you could not have increased your understanding. If the book is completely intelligible to you 
+  There is the book; and here is your mind. As you go through the pages, either you understand perfectly everything the author has to say or you do not. If you do, you may have gained information, but you could not have increased your understanding. If the book is completely intelligible to you from start to finish.
+
+  What to do when you the book perfectly?
+
+  You can take the book to someone else who, you think, can read better than you, and have him explain the parts that trouble you. He may be a live person or another book-a commentary or text book. 
+     
 
 
 
