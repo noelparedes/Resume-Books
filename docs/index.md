@@ -12,11 +12,11 @@ I Think this project could help someone if I share it with my friend and if you 
 
 <a href="https://github.com/reymon359/book-sentences">Reymon Pages</a>
 
-Thanks God Bless you...Happy Coding... :q)
+Thanks God Bless you...Happy Coding... :)
 
 ## Content: Books Summaries
 
-- [Apprenticeship Patterns](ApprenticeshipPatterns/Apprenticeship_Patterns.md)
-- [Clean Code](CleanCode/CleanCode.md)
-- [Learn To Code Get a Job](LearnToCodeGetaJob/Learn_Code_Get_Job.md)
-- [Learn Like a Pro](LearnLikeaPro/Learn_Like_a_Pro.md)
+- [Apprenticeship Patterns](Apprenticeship%Patterns/index.md)
+- [Clean Code](Clean%Code/CleanCode.md)
+- [Learn To Code Get a Job](Learn%To%Code%Get%a%Job/index.md)
+- [Learn Like a Pro](Learn%Like%a%Pro/index.md)
