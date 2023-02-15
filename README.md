@@ -26,7 +26,7 @@ Thanks God Bless you...Happy Coding... :)
 
 ## Content: Books Summaries
 
-- [Apprenticeship Patterns](ApprenticeshipPatterns/index.md)
-- [Clean Code](CleanCode/index.md)
-- [Learn To Code Get a Job](LearnToCodeGetaJob/index.md)
-- [Learn Like a Pro](LearnLikeaPro/index.md)
+- [Apprenticeship Patterns](Apprenticeship%20Patterns/index.md)
+- [Clean Code](Clean%20Code/index.md)
+- [Learn To Code Get a Job](Learn%20To%20Code%20Get%20a%20Job/index.md)
+- [Learn Like a Pro](Learn%20Like%20a%20Pro/index.md)
