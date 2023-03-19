@@ -62,6 +62,7 @@ book are the very best of practical learning tools and insights synthesized from
   5. **Repeat as appropriate.** If you want to study for 2 hours, you can do four Pomodoros with the break lasting roughly 5 minutes each time. If you have trouble getting yourself back to work when the break is done, set a timer for the break as well.
 
   ![Figure 1](./assets/figure1.jpg)
+
   
   The Pomodoro technique in four easy steps. 
 
