@@ -1,6 +1,6 @@
 ---
 name: 'Learn like a pro'
-Read: ['2022']
+Read: ['2023']
 Genre: ['Self-help', 'Productivity', 'Personal Growth']
 ---
 
@@ -151,9 +151,4 @@ That pain in the brain dissipates once you get started.
  
  Think twice about listening to music while studying unless you’re already learning the material well.
 
-
-Recommendations 
-
-Learn How to learn?
-Super Student
 
