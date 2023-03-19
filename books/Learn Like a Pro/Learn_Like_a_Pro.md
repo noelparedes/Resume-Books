@@ -15,8 +15,8 @@ Genre: ['Self-help', 'Productivity', 'Personal Growth']
 
 ## Table of Contents
 
- - [Begin Reading](#beginreading)
- - [How to Focus Intently and Beat Procrastination](#Howtofocusintentlyandbeatprocrastination)
+ - [Begin Reading](#begin-reading)
+ - [How to Focus Intently and Beat Procrastination](#How-to-focus-intentlyandbeatprocrastination)
      - [The Pomodoro Technique](#the-pomodoro-technique)
      - [Why the Pomodoro Technique Works](#Why-the-Pomodoro-Technique-Works)
      - [Avoid Your Mobile Phone During Learning breaks](#Avoid-Your-Mobile-Phone-During-Learning-breaks)
@@ -33,7 +33,7 @@ Genre: ['Self-help', 'Productivity', 'Personal Growth']
  - [How to Win Big on Tests](#howtowinbigontests)
  - [How to Be a Pro Learner](#howtobeaprolearner)
 
-## Begin Reading
+### Begin Reading
 
 1. Do you spend to much time learning with disappointing results?
 2. Do you find it difficult to remember what you read?
@@ -44,7 +44,7 @@ Building on insights from neuroscience and cognitive psychology, we will give yo
 Through their decades of writing, teaching, and research on learning, Olav and Barb have developed deep connections with experts from a vast array of disciplines. What you’ll find in this little
 book are the very best of practical learning tools and insights synthesized from research in neuroscience, cognitive psychology,education, and many other fields.
 
-## How to Focus Intently and Beat Procrastination
+### How to Focus Intently and Beat Procrastination
 
 ### The Pomodoro Technique
   
