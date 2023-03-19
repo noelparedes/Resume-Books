@@ -1,81 +1,154 @@
 ---
-name: 'How to read a book'
-Read: ['2022']
-Genre: ['Self-help','Personal Growth']
+name: 'Learn like a pro'
+Read: ['2023']
+Genre: ['Self-help', 'Productivity', 'Personal Growth']
 ---
 
 ![Cover](./assets/cover.jpg)
 
-# How to read a book 
 
-# Author 
+# Learn like a pro.
 
-**Mortimer J. Adler**
+# Author
+
+**DR. Barbara OAKLEY AND OLAV SCHEWE**
 
 ## Table of Contents
 
- - [Preface](#preface)
- - [Part 1 The Dimensions of Reading](#part-1-the-dimensions-of-reading)
-  -[The Activity and Art of Reading](#the-activity-and-art-of-reading)
-  - [Learning](#Learning)
+ - [Begin Reading](#beginreading)
+ - [How to Focus Intently and Beat Procrastination](#Howtofocusintentlyandbeatprocrastination)
+     - [The Pomodoro Technique](#the-pomodoro-technique)
+     - [Why the Pomodoro Technique Works](#Why-the-Pomodoro-Technique-Works)
+     - [Avoid Your Mobile Phone During Learning breaks](#Avoid-Your-Mobile-Phone-During-Learning-breaks)
+     - [Be Wary of Multitasking When Studying](#Be-Wary-of-Multitasking-When-Studying)
+     - [Set Up a Distraction-Free Environment](#Set-Up-a-Distraction-Free-Environment)
+ - [How to Overcome Being Stuck](#HowtoOvercomeBeingStuck)
+ - [How to Learn Anything Deeply](#HowtoLearnAnythingDeeply)
+ - [How to Maximize Working Memory and Take Better Notes](#HowtoMaximizeWorkingMemoryandTakeBetterNotes)
+ - [How to Memorize](#howtomemorize)
+ - [How to Gain Intuition and Think Fast](#wowtogainintuitionandthinkfast)  
+ - [How to Exert Self-Discipline Even When You Don’t Have Any](#howtoexertself-disciplineevenwhenyoudon'thaveany)
+ - [How to Motivate Yourself](#howtomotivateyourself)
+ - [How to Read Effectively](#howtohreadeffectively)
+ - [How to Win Big on Tests](#howtowinbigontests)
+ - [How to Be a Pro Learner](#howtobeaprolearner)
 
-## Preface
+## Begin Reading
 
-### What are some reason  to rewrite the book for the present generation of reader?
+1. Do you spend to much time learning with disappointing results?
+2. Do you find it difficult to remember what you read?
+3. Do you put off studying because it's boring and you're easily distracted?
 
- The reason for doing so lie in changes that have taken place both in our society in the las thirty year.
- 1- Today many more of the young men and women  who complete high school enter and complete for year of college
- 2- A much larger proportion of the population has become literate in spite of or even because of the popularity of radio and television.
+Building on insights from neuroscience and cognitive psychology, we will give you a crash course to improve your ability to learn, whether you’re studying math, language, coding, karate, cooking, or anything else.
 
-### What have captivated the adults?
+Through their decades of writing, teaching, and research on learning, Olav and Barb have developed deep connections with experts from a vast array of disciplines. What you’ll find in this little
+book are the very best of practical learning tools and insights synthesized from research in neuroscience, cognitive psychology,education, and many other fields.
 
-Adults in large numbers have been captivated by the glittering promises made by speed-reading courses that promise to increase their comprehension of what they read as well as their speed in reading it. 
+## How to Focus Intently and Beat Procrastination
 
-## Things that have not changes 
+### The Pomodoro Technique
+  
+  - Use this approach to structure your study sessions:
 
-1- Archive all the purpose of reading, the desideratum(desired) mus bee the ability to read different things at different-appropriate-speeds, not everything at the greatest possible speed. Pascal observed "When we read to fast or to slowly, we understand nothing".
-2-Another thing that have not changed,unfortunately, is the failure to carry instruction in reading beyond the elementary level.
+  1. **Sit down where you’ll be studying or working and remove any possible distractors.** This means ensuring there are no pop-ups or extraneous open tabs on your computer, dings from your cell phone, or anything else that could draw you off-task.
+
+  2. **Set a timer for 25 minutes.** You can use a mechanical or silent digital timer. You can also use the timer or an app on your phone. If you use your phone, place it out of sight and beyond arm’s reach so you won’t be distracted while focusing.
+
+  3. **Dive in and study or work as intently as you can for those 25 minutes.** If your mind wanders (as it inevitably will), just bring your attention back to the task at hand. Most things can wait or be postponed for 25 minutes. If distracting thoughts come up that you feel like you should act on, write them down in a to-do list so you can tackle them after the Pomodoro session is over. 
+
+  4. **Reward yourself** for about 5 minutes at the end of the Pomodoro session. Listen to your favorite song, close your
+     eyes and relax, go for a walk, make a cup of tea, cuddle with your dog or cat—anything to let your mind comfortably flow free. It’s also best to avoid checking your cell phone or email during this break time—more on why later.
+
+  5. **Repeat as appropriate.** If you want to study for 2 hours, you can do four Pomodoros with the break lasting roughly 5 minutes each time. If you have trouble getting yourself back to work when the break is done, set a timer for the break as well.
+
+  ![Figure 1](./assets/figure1.jpg)
+  The Pomodoro technique in four easy steps. 
+
+  ### Why the Pomodoro Technique Works
  
- **_Note_:** _James Mursell of Columbia University's wrote an article for the atlantic Monthly entitled **"The Failure of the Schools"**_
-
-## Do pupils in school learn to read their mother tongue effectively? Yes or no.
-   Up to the fifth grade ans sixth grade, reading, on the whole, is effectively taught and well learned. To that level we find a steady and general improvement, but beyond it the curves flatten out to a dead level.
-
-## Part 1 The Dimensions of Reading
- ### The Activity and Art of Reading 
-
- **Who is this book for?**
-  It is for readers and those who wish to become readers. Particularly, it is for readers of books. Even more particularly, it is for those whose main purpose in reading book is to gain increased understanding. 
-   
- **It is necessary the reading nowadays? Why yes or no?**  
-  It might seen that is not necessary with all the information that we have in the media, radio, television, and today youtube etc, where people use the ingenious of the rhetoric and select data ans statics to make it easy for him to "make up his own mind" with the minimum of difficulty and effort. But the packaging is often done so effectively that the viewer, listener, or reader does not make up his own mind at all. 
+ You might wonder how something so simple can be so powerful. The reason is that the Pomodoro Technique captures important aspects
+of how your brain learns.
   
-  Instead, he insert a packaged opinion into his min, somewhat like inserting a cassette into a cassette player. He then pushes a button and "plays back" the opinion whenever it seems appropriate to do so. He has performed acceptably without having had to think.
-
- ### Active Reading
-
-  **Where you can apply this rules**
+  * Pomodoro-fueled bursts of focused attention give your brain practice in focusing without disruption. 
+  * Short mental breaks where you get away from focusing are ideal to allow you to transfer what you've just learned into long-term memory, clearing your mind for new learning.
+  * Anticipation of a reward keeps you motivated throughout the Pomodoro.
+  * It's much easier to commit and recommit yourself to short bursts of dedicated study than to seemingly endless sessions.
+  * Your studies begin a pattern of focusing on the _process_ putting in certain amounts of dedicated time rather than the _goal_ or _outcome_.
   
-  These rule can be applied in printed material in general to any type of reading matter, to newspapers, magazines, pamphlets, articles, tracts, even advertisements.  
+   Note:_In the long run, having a good process in place is much more important than any one individual session or goal.
+  * When you even just think about something you don’t like or don’t want to do, it activates the insular cortex, causing a “pain in the brain.” This pain diminishes after about 20 minutes of focus on the activity.
 
-  Many people might think that reading is passive but that is not true at all since you can not read with our eyes immobilized and our minds asleep. That being said one reader can be more or less active, to point out that the more active the reading the better. One reader is better than another in proportion as he is capable of greater range of activity in reading and exerts more effort. 
+### Avoid Your Mobile Phone During Learning breaks
 
-  Both the writer and the speaker must put out some effort, it is much more like the catcher in a game of baseball. Catching the ball is just as much an activity as pitching or hitting it. The Thing that is written and read, like the ball, is the passive object common to the two activities that begin and terminate the process. 
+Research by professors Sanghoon Kang and Terri Kurtzberg from Rutgers Business School has revealed that *using a mobile phone for a break does not allow your brain to recharge as effectively as the other types of breaks.*
 
-  We can take this analogy a step further. The art of catching is the skill of catching every kind of pitch fast balls and curves, change ups and knucklers. Similarly, the art of reading is the skill of catching every sort of communication as well as possible. 
-  
-  It is noteworthy that the pitcher and catcher are successful only to the extent that they cooperate. The relation of writer and reader is similar.  The writer isn't trying not to be caught, although is sometimes seems so. Successful communication occurs in any case where what the writer wanted to have received finds its way into the reader's possession. The writer's skill and the reader's skill converge upon a common end. 
+*Mobile phones are also particularly distracting if you happen to be in face-to-face training of classes*. One study found that _Students who were not using their mobile phones wrote down 62% more information in their notes  where able to recall more detailed information from the lecture, and scored a full letter grade and a half higher on a multiple choice test than students who actively used their mobile phones. Even just having your phone near you while you're studying can be distracting your brain is still tracking it if it knows it's close at hand.
+If you feel anxious without a phone, researchers have found you'll still be better of with the phone out of reach. Leave your phone in a backpack, briefcase, or purse, or even back in the car. You'll be shocked at how mucho your focus improves. 
 
-  There is one respect in which the analogy breaks down. The ball is a simple unit. It is either completely caught or not. A piece of writing, however, is a complex object. It can be received more or less completely, all the way from very little of what the writer intent the whole of it.  The amount the reader "catches" will usually depend on the amount of activity he put into the process, as well as upon the skill with which he executes the different mental acts involved. 
+### Be Wary of Multitasking When Studying
 
-  **The Goals of Reading: Reading for Information and Reading for Understanding**
+Multitasking while you are studying it is not good the reason of that it is because whenever you switch your focus to a new task, you activate information stored in you brain related to the new task. When you switch to a different task we activate a different set of information. This leave you what's call and __attention residue__ some leftover attention from your previous task that means your attention isn't fully on the new task. 
 
-  There is the book; and here is your mind. As you go through the pages, either you understand perfectly everything the author has to say or you do not. If you do, you may have gained information, but you could not have increased your understanding. If the book is completely intelligible to you from start to finish.
+Frequently this increase susceptibility to distraction, causes more errors, slows work, make writing worses, diminishes learning, and causes forgetting. __In short, bad news. One study by researchers at the University of Michigan found that cognitive performance fell by 30-40 percent when participants switched between tasks instead of completing on task before moving to the next. 
 
-  What to do when you the book perfectly?
+### Set Up a Distraction-Free Environment
+Some time it might be a little bit difficult but you have to find a place where you can study without any distractions. 
 
-  You can take the book to someone else who, you think, can read better than you, and have him explain the parts that trouble you. He may be a live person or another book-a commentary or text book. 
-     
+Recommendation
+1- Avoid study in rooms where your friends or colleagues socialize. 
+2- A quiet library or isolated location can be ideal. 
+3- Avoid your cellphone notifications from computer and phone. 
 
+__Create a Ready-Resume Plan When an Unavoidable Interruption Comes up__
+
+_ Take a few seconds to mentally note where you are in your current task, and how you'll return to the task. 
+
+__Take Frequent Brief Breaks__
+
+- Taking mental break will help you to offload the new material into de long-term memory.
+- Breaks tha involve something Physical, like going for a walk or jog, are always a good Idea. 
+- Another reason is tha movement and exercise themselves are helpful for the learning process. 
+
+__Music and Binaural Beats__
+
+Studying to music may you feel that you can study longer, but because while you listen music, part of your attention is
+following the turn so you aren't working as has you could be. If you are getting good grades or evaluations for what you're
+learning, you're probably fine to listen to music. But if your feedback isn't what you would like, or you're struggling to make
+headway with the material, we'd suggest backing away from music. 
+
+
+**KEY TAKEAWAYS** 
+FROM THE CHAPTER
+
+**The Pomodoro Technique is one of the most powerful methods for tackling procrastination. To do it:**
+
+– Remove distractions.
+– Set a timer for 25 minutes.
+– Focus as intently as you can for those 25 minutes.
+– Reward yourself. Take a 5-minute or so mental break. (Use a timer for the break if necessary.)
+– Do another Pomodoro until the work—or you!—is done.
+
+**A pain in the brain can trigger procrastination.** 
+
+Be aware of minor feelings of discomfort when you think about something you don’t like to do—these feelings can trigger procrastination.
+That pain in the brain dissipates once you get started.
+
+**In general, it’s best to avoid multitasking.**
+ 
+ But multitasking is not all bad—it can sometimes help you avoid becoming fixed on a cognitive approach that’s going nowhere.
+
+**Set up a distraction-free environment.**
+
+ Do a sweep through the notifications settings on your devices and disable audible, visible, and vibrating alerts. Keep your phone out of reach.
+
+**If you are called off-task by someone or something, try to take mental note of where you were so you can more easily return to it.**
+
+**Take frequent brief breaks.**
+ 
+ If you go too long on any one task, you will inevitably tire.**
+
+**If you like to listen to music when you’re working, make sure it isn’t distracting your attention.** 
+ 
+ Think twice about listening to music while studying unless you’re already learning the material well.
 
 
