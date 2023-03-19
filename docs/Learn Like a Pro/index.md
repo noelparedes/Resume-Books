@@ -1,9 +1,3 @@
----
-name: 'Learn like a pro'
-Read: ['2023']
-Genre: ['Self-help', 'Productivity', 'Personal Growth']
----
-
 ![Cover](./assets/cover.jpg)
 
 
