@@ -9,15 +9,19 @@
 
 ## Table of Contents
 
- - [Begin Reading](#beginreading)
- - [How to Focus Intently and Beat Procrastination](#Howtofocusintentlyandbeatprocrastination)
+ - [Begin Reading](#begin-reading)
+ - [How to Focus Intently and Beat Procrastination](#How-to-focus-intently-and-beat-procrastination)
      - [The Pomodoro Technique](#the-pomodoro-technique)
      - [Why the Pomodoro Technique Works](#Why-the-Pomodoro-Technique-Works)
      - [Avoid Your Mobile Phone During Learning breaks](#Avoid-Your-Mobile-Phone-During-Learning-breaks)
      - [Be Wary of Multitasking When Studying](#Be-Wary-of-Multitasking-When-Studying)
      - [Set Up a Distraction-Free Environment](#Set-Up-a-Distraction-Free-Environment)
- - [How to Overcome Being Stuck](#HowtoOvercomeBeingStuck)
- - [How to Learn Anything Deeply](#HowtoLearnAnythingDeeply)
+ - [How to Overcome Being Stuck](#How-to-Overcome-Being-Stuck)
+ - [How to Learn Anything Deeply](#How-to-Learn-Anything-Deeply)
+   - [When You Learn, You Create Links](#When-you-learn-you-create-links)
+   - [Study Actively, Not Passively](#Study-Actively-Not-Passively)
+   - [Challenge Yourself So You Can Advance More Quickly](#Challenge-Yourself-So-You-Can-Advance-More-Quickly)
+   - [How to deepen Your Learning](#How-to-deepen-your-learning)
  - [How to Maximize Working Memory and Take Better Notes](#HowtoMaximizeWorkingMemoryandTakeBetterNotes)
  - [How to Memorize](#howtomemorize)
  - [How to Gain Intuition and Think Fast](#wowtogainintuitionandthinkfast)  
@@ -214,7 +218,7 @@ Sentences.
 **2. At the heart of active learning lies something called "retrieval practice."**
 **3. Retrieval practice is therefore also a _metacognitive strategy_ that helps you evaluate your own learning.** 
 
-### General Techniques for Learning Actively
+## General Techniques for Learning Actively
 Here are some techniques that will help you approach your learning in an active way.
 * Work out example problems yourself, without looking at the solutions. (If you have to peek partway through, after you finish
   the problem, go back and do the whole problem again.)
