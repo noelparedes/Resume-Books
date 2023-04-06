@@ -16,14 +16,18 @@ Genre: ['Self-help', 'Productivity', 'Personal Growth']
 ## Table of Contents
 
  - [Begin Reading](#begin-reading)
- - [How to Focus Intently and Beat Procrastination](#How-to-focus-intentlyandbeatprocrastination)
+ - [How to Focus Intently and Beat Procrastination](#How-to-focus-intently-and-beat-procrastination)
      - [The Pomodoro Technique](#the-pomodoro-technique)
      - [Why the Pomodoro Technique Works](#Why-the-Pomodoro-Technique-Works)
      - [Avoid Your Mobile Phone During Learning breaks](#Avoid-Your-Mobile-Phone-During-Learning-breaks)
      - [Be Wary of Multitasking When Studying](#Be-Wary-of-Multitasking-When-Studying)
      - [Set Up a Distraction-Free Environment](#Set-Up-a-Distraction-Free-Environment)
- - [How to Overcome Being Stuck](#HowtoOvercomeBeingStuck)
- - [How to Learn Anything Deeply](#HowtoLearnAnythingDeeply)
+ - [How to Overcome Being Stuck](#How-to-Overcome-Being-Stuck)
+ - [How to Learn Anything Deeply](#How-to-Learn-Anything-Deeply)
+   - [When You Learn, You Create Links](#When-you-learn-you-create-links)
+   - [Study Actively, Not Passively](#Study-Actively-Not-Passively)
+   - [Challenge Yourself So You Can Advance More Quickly](#Challenge-Yourself-So-You-Can-Advance-More-Quickly)
+   - [How to deepen Your Learning](#How-to-deepen-your-learning)
  - [How to Maximize Working Memory and Take Better Notes](#HowtoMaximizeWorkingMemoryandTakeBetterNotes)
  - [How to Memorize](#howtomemorize)
  - [How to Gain Intuition and Think Fast](#wowtogainintuitionandthinkfast)  
@@ -153,4 +157,128 @@ That pain in the brain dissipates once you get started.
  
  Think twice about listening to music while studying unless you’re already learning the material well.
 
+
+### How to Overcome Being Stuck
+
+
+In this chapter you going to find a few tips that going to help you to overcome being stuck while you are studying. 
+
+The Author point out at the beginning to mode that can help you.
+
+**Focused Mode** helps you work through familiar problems, to load difficult material into your brain so the diffuse mode can begin
+processing it.
+
+**Diffuse Mode** helps you make sense of new challenges in whatever you're learning, whether it's understanding a new accounting concept, handling a challenging search engine optimization problem, or figuring out how to put in windy conditions in golf. 
+
+**Learning often involves moving back and forth between focused and diffuse modes.** It's typical to get stuck when learning something difficult that just means it's time to move from focused to diffuse mode. Take a break, o work on something different, to let neural processing continue in the background. 
+
+**Use the Hard Start Technique.** This means to begin with the hardest problems on the tests or homework. Pause the hard problem when you get stuck so that you can work on another problem. Return the hard problem after a while. 
+
+**Do not edit when you're writing the first draft of a report or essay.** A good way to avoid editing is to cover or turn off your computer screen so you can't see what you're writing 
+
+
+### How to Learn Anything Deeply
+
+Definitions 
+
+1- Synapse: The connection point between two neurons.  
+## When You Learn, You Create Links
+ Whenever you learn something, you're simply connecting neurons a basic _"Building block"_ cell in the brain. 
+
+ ![Figure 2](./assets/figure2.jpg)
+   >The more you practice, the thicker and stronger the neural connections become. Learning more complex information well also creates longer sets of links you can see how a small piece of information has only a short set of links, symbolized by the three links at the top, while more complicated information creates longer and longer sets of links. As you learn more, you also discover the connections and differences between different concepts these are shown by the light set of links connecting the main "concept" links.The more set of links and connecting links that you create through understanding and practice, the more expert you become. Of course, in real life, learning involves many more neurons and links.
+## Study Actively, Not Passively
+   When you're learning, it's is important to study _Actively_, making your brain work hard or think hard. 
+   *Do*
+   * Active work the problem yourself.
+   * Try to remember the main points from a video you just watched or a book section you've just read. 
+   *Don't*
+   Don't just look at the problem solution. 
+
+   Passive reading in the other hand, such as effortless listening or reading, isn't  very effective. 
+
+    **About Retrieval Practice**
+  It is about pulling information from you own memory, or work with you own mind, rather than simply looking at the material. The more you retrieve the material, and the broader the set of contexts you retrieve the materials in, the stronger and more broadly connected the neural links become. 
+
+  **Key point**
+  The best way to put information _into_ your long-term memory is to try to retrieve it from your own long-term memory instead of just looking at the answer. 
+ 
+  ![Figure 2](./assets/figure3.jpg)
+  >When you first learn something, it places a faint trace in your sets of links. The more you retrieve those set of links, the more you strengthen them. 
+
+Sentences.
+
+**1. The more you practice, the thicker and stronger the neural connections become.** 
+**2. At the heart of active learning lies something called "retrieval practice."**
+**3. Retrieval practice is therefore also a _metacognitive strategy_ that helps you evaluate your own learning.** 
+
+### General Techniques for Learning Actively
+Here are some techniques that will help you approach your learning in an active way.
+* Work out example problems yourself, without looking at the solutions. (If you have to peek partway through, after you finish
+  the problem, go back and do the whole problem again.)
+* Try to recall the key points from a book, article, or paper. Look away and see if you can recall the key idea or ideas. If what
+  you’re reading is difficult, it’s best to pause and try to recall after each page of what you’re reading.
+* Formulate your own questions about the material.
+* Take practice tests, preferably under time pressure that simulates the actual time constraints of the test.
+* Find ways to re-explain key ideas from your notes or textbook in simpler terms, as if you’re explaining them to a child.
+* Work with others, either another person or a small group—meet and discuss the concepts, give mini-lectures, and compare approaches.
+* Create flashcards, either by hand or using an app, such as Anki or Quizlet.
+* Explain your thinking out loud to another person, or teach the key concepts to someone else.
+* Ask a partner to quiz you. (The stress of being quizzed in front of a friend can mimic some of the stress of an actual quiz or test.)
+* Take a practice test, even if you haven’t studied much yet. (Guessing answers on practice questions has been shown to improve subsequent learning.)
+* Make your own practice test.
+* Try to remember key points when you’re doing mundane activities such as washing the dishes or going for a walk.
+
+## Challenge Yourself So you Can Advance More Quickly 
+
+If you want to advance quickly in your learning, you need to continue forming new connections in long-term memory, and not just reinforce the connections you've already made. This means it's important to keep pushing yourself every day with harder material. 
+
+## How to Deepen your learning 
+
+**Elaboration**
+ 1. You can broaden{mean to expand} your set of links by actively thinking about what you're learning, as well as by writing and talking
+    about it. 
+     * A technique called self-explaining or elaboration can help. With this technique, you actively try to explain, in you own words, what you're learning. When working on numerical problems, for example, stop at every step and ask the question "Why am I doing this step?" and try to come up with an explanation. 
+     * For Concept that you're reading about, try to explain them as if you were teaching. Make your explanations different from the one you've just read. Try to simplify, improve, and provide examples. 
+**Interleaving**
+ 
+ Interleaving means varying or mixing different concepts. 
+
+  Using this technique give you the chance to contrast the different style between one author an another. At the beginning you have to work through the feelings of frustration, and you'll find yourself learning much faster. 
+
+  ![Figure 4](./assets/figure4.jpg)
+
+  **Beware of procrastination**
+     Procrastination may be useful when in terms of complete a tasks refer. but when it come to learn it doesn't help a lot because multiple reason.
+     1. It takes brief periods of study each day over a number of days to grow a solid neural architecture of learning. 
+     2. If you procrastinate with something you're try to learn, you're undercutting your ability to make progress.
+     3. Give your brain the time it needs to learn a new subject. 
+
+
+**KEY TAKEAWAYS** 
+FROM THE CHAPTER
+**-Learning means connecting neurons in your brain. To make learning deep and lasting, you have to make those connections strong.**
+**-Actively engage with the material to jump-start those neural connections, using retrieval practice whenever is possible**:
+ - Work problems yourself avoid looking at the solutions
+ - Test yourself 
+ - Try to recall main ideas from a text.
+ - Explain key concepts in simple ways to yourself, or to someone else.
+ - Work with another person or small group of that is as interested as you are in the material. 
+ - Create study materials flash cards, study guides, anything that require you to process the information and put it into a new format.
+ **-Break up your learning int several shorter sessions over several days, instead of one ultra long session.**
+ **Challenge yourself to progress faster**.  When learning becomes easy, increase the level of difficulty.
+ **To learn difficult concept well, you need to actively connect what you're learning to other material you're learning or already know.** You can do this through elaboration or interleaving. 
+ **Don't procrastinate when you're trying to learn it takes may days to build the solid neural architecture of good learning.**
+ **Exercise regularly.** Exercise has been shown to help you more easily form neural connections.
+ **Cautions use of cognitive enhancements such as coffee or tea, along with a healthy diet, can improve your ability to learn.**
+ **Regularly get enough sleep**. Sleep is when your neural architecture grows. Spacing out your learning over several days will give more sleep periods, which will strengthen your learning. 
+
+ 
+
+Retrieval Practice:
+ One of the best way of put information in your long term memory is to try to __retrieve__ it from your own long-term memory instead
+  of just looking at the answer. 
+  Links read about retrieval practices:
+   [Retrieval and sleep both counteract the forgetting of spatial information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959224/)\
+   [Retrieval-Based Learning: Active Retrieval Promotes Meaningful Learning](https://journals.sagepub.com/doi/10.1177/0963721412443552)
 
