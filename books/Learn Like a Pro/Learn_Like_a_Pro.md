@@ -28,7 +28,11 @@ Genre: ['Self-help', 'Productivity', 'Personal Growth']
    - [Study Actively, Not Passively](#Study-Actively-Not-Passively)
    - [Challenge Yourself So You Can Advance More Quickly](#Challenge-Yourself-So-You-Can-Advance-More-Quickly)
    - [How to deepen Your Learning](#How-to-deepen-your-learning)
- - [How to Maximize Working Memory and Take Better Notes](#HowtoMaximizeWorkingMemoryandTakeBetterNotes)
+ - [How to Maximize Working Memory and Take Better Notes](#How-to-Maximize-Working-Memory-and-Take-Better-Notes)
+   - [Working Memory  Master trickster](#Working-Memory-Master-trickster)
+   - [Sets of Links in Long-Term Memory Enhance Your Working Memory](#Sets-of-Links-in-Long-Term-Memory-Enhance-Your-Working-Memory)
+   - [Making the Best Use of Your Working Memory](#Making-the-Best-Use-of-Your-Working-Memory)
+   -[How to Take Better Notes](#How-to-Take-Better-Notes)
  - [How to Memorize](#howtomemorize)
  - [How to Gain Intuition and Think Fast](#wowtogainintuitionandthinkfast)  
  - [How to Exert Self-Discipline Even When You Don’t Have Any](#howtoexertself-disciplineevenwhenyoudon'thaveany)
@@ -37,7 +41,7 @@ Genre: ['Self-help', 'Productivity', 'Personal Growth']
  - [How to Win Big on Tests](#howtowinbigontests)
  - [How to Be a Pro Learner](#howtobeaprolearner)
 
-### Begin Reading
+# Begin Reading
 
 1. Do you spend to much time learning with disappointing results?
 2. Do you find it difficult to remember what you read?
@@ -48,9 +52,9 @@ Building on insights from neuroscience and cognitive psychology, we will give yo
 Through their decades of writing, teaching, and research on learning, Olav and Barb have developed deep connections with experts from a vast array of disciplines. What you’ll find in this little
 book are the very best of practical learning tools and insights synthesized from research in neuroscience, cognitive psychology,education, and many other fields.
 
-### How to Focus Intently and Beat Procrastination
+# How to Focus Intently and Beat Procrastination
 
-### The Pomodoro Technique
+# The Pomodoro Technique
   
   - Use this approach to structure your study sessions:
 
@@ -70,7 +74,7 @@ book are the very best of practical learning tools and insights synthesized from
   
   The Pomodoro technique in four easy steps. 
 
-  ### Why the Pomodoro Technique Works
+## Why the Pomodoro Technique Works
  
  You might wonder how something so simple can be so powerful. The reason is that the Pomodoro Technique captures important aspects
 of how your brain learns.
@@ -84,20 +88,20 @@ of how your brain learns.
    Note:_In the long run, having a good process in place is much more important than any one individual session or goal.
   * When you even just think about something you don’t like or don’t want to do, it activates the insular cortex, causing a “pain in the brain.” This pain diminishes after about 20 minutes of focus on the activity.
 
-### Avoid Your Mobile Phone During Learning breaks
+## Avoid Your Mobile Phone During Learning breaks
 
 Research by professors Sanghoon Kang and Terri Kurtzberg from Rutgers Business School has revealed that *using a mobile phone for a break does not allow your brain to recharge as effectively as the other types of breaks.*
 
 *Mobile phones are also particularly distracting if you happen to be in face-to-face training of classes*. One study found that _Students who were not using their mobile phones wrote down 62% more information in their notes  where able to recall more detailed information from the lecture, and scored a full letter grade and a half higher on a multiple choice test than students who actively used their mobile phones. Even just having your phone near you while you're studying can be distracting your brain is still tracking it if it knows it's close at hand.
 If you feel anxious without a phone, researchers have found you'll still be better of with the phone out of reach. Leave your phone in a backpack, briefcase, or purse, or even back in the car. You'll be shocked at how mucho your focus improves. 
 
-### Be Wary of Multitasking When Studying
+## Be Wary of Multitasking When Studying
 
 Multitasking while you are studying it is not good the reason of that it is because whenever you switch your focus to a new task, you activate information stored in you brain related to the new task. When you switch to a different task we activate a different set of information. This leave you what's call and __attention residue__ some leftover attention from your previous task that means your attention isn't fully on the new task. 
 
 Frequently this increase susceptibility to distraction, causes more errors, slows work, make writing worses, diminishes learning, and causes forgetting. __In short, bad news. One study by researchers at the University of Michigan found that cognitive performance fell by 30-40 percent when participants switched between tasks instead of completing on task before moving to the next. 
 
-### Set Up a Distraction-Free Environment
+## Set Up a Distraction-Free Environment
 Some time it might be a little bit difficult but you have to find a place where you can study without any distractions. 
 
 Recommendation
@@ -158,7 +162,7 @@ That pain in the brain dissipates once you get started.
  Think twice about listening to music while studying unless you’re already learning the material well.
 
 
-### How to Overcome Being Stuck
+# How to Overcome Being Stuck
 
 
 In this chapter you going to find a few tips that going to help you to overcome being stuck while you are studying. 
@@ -177,7 +181,7 @@ processing it.
 **Do not edit when you're writing the first draft of a report or essay.** A good way to avoid editing is to cover or turn off your computer screen so you can't see what you're writing 
 
 
-### How to Learn Anything Deeply
+# How to Learn Anything Deeply
 
 Definitions 
 
@@ -212,7 +216,7 @@ Sentences.
 **2. At the heart of active learning lies something called "retrieval practice."**
 **3. Retrieval practice is therefore also a _metacognitive strategy_ that helps you evaluate your own learning.** 
 
-### General Techniques for Learning Actively
+## General Techniques for Learning Actively
 Here are some techniques that will help you approach your learning in an active way.
 * Work out example problems yourself, without looking at the solutions. (If you have to peek partway through, after you finish
   the problem, go back and do the whole problem again.)
@@ -271,9 +275,7 @@ FROM THE CHAPTER
  **Don't procrastinate when you're trying to learn it takes may days to build the solid neural architecture of good learning.**
  **Exercise regularly.** Exercise has been shown to help you more easily form neural connections.
  **Cautions use of cognitive enhancements such as coffee or tea, along with a healthy diet, can improve your ability to learn.**
- **Regularly get enough sleep**. Sleep is when your neural architecture grows. Spacing out your learning over several days will give more sleep periods, which will strengthen your learning. 
-
- 
+ **Regularly get enough sleep**. Sleep is when your neural architecture grows. Spacing out your learning over several days will give more sleep periods, which will strengthen your learning. \
 
 Retrieval Practice:
  One of the best way of put information in your long term memory is to try to __retrieve__ it from your own long-term memory instead
@@ -281,4 +283,105 @@ Retrieval Practice:
   Links read about retrieval practices:
    [Retrieval and sleep both counteract the forgetting of spatial information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959224/)\
    [Retrieval-Based Learning: Active Retrieval Promotes Meaningful Learning](https://journals.sagepub.com/doi/10.1177/0963721412443552)
+ # How to Maximize Working Memory and Take Better Notes
 
+  **KEY POINT**
+   The brain has two separate types of memory: _working memory_, which only holds information temporarily, and _long-term memory_ which is more permanent. True learning only takes place when information has been moved from working memory into long-term memory. 
+
+
+ ## Working Memory Master trickster 
+
+ Your Working memory normally can hold about three or four concepts. 
+
+![Figure 5](./assets/figure5.jpg)
+
+>Your working memory can only hold up to about four pieces of information in mind at once. If it gets too many thoughts, it become overwhelmed. Information and thoughts can fall out. 
+
+## Sets of Links in Long-Term Memory Enhance Your Working Memory
+
+You can effectively hold more in working memory at one time, since each one of the octopus's four arms can grab a piece of information tha you've already learned. 
+
+## Making the Best Use of Your Working Memory
+
+If you struggle to understand the material, it's likely because your working memory is overwhelmed it can not handle all that difficult information at once. Here's what you should do:
+
+**Simplify**
+
+* As you study books and articles, try to synthesize the key ideas, which are often surprisingly simple.
+
+**Break Material into Chunks**
+* Find a way to break your learning down into smaller chunks. Try to focus on the fundamentals.
+
+**Translate into More Understandable Terms**
+Try to attach what you're learning to something you already know or are familiar with.
+
+**Make a List**
+Instead of trying to remember dozen of more tasks, the only thing you need to remember it that you have a task list. 
+
+**Put something on paper**
+You must put a key word, number, or formula onr paper extends your working memory to the paper. Storing such information temporarily
+on paper instead of in working memory frees up capacity hta can be used for other thoughts.
+
+## How to Take Better Notes
+
+**Prepare**
+
+If you're taking notes from a class lecture, you should read through or at least scan any associated material or assigned readings ahead of time. If you're watching a video, subtitles are sometimes available as a document you can glance through ahead of time. Such preparation will give you a structure that will help you make better and more organized notes. 
+
+**Extract and Organize the Essence**
+
+
+- Split Notes
+![Figure 6](./assets/figure6.jpg)
+> Example of split notes: Notes are written down in the right field and are later supplemented by summarizing key words or heading on the left. 
+Dos:
+- Make a vertical line one-third of the way across the page. 
+- Try to capture the main ideas (not the word-for-word verbiage) in the space to the right of the vertical line. 
+= Use contractions
+- Use Symbols, abbreviations. 
+- Put summarizing words or brief phrases int he left column. 
+
+Don't
+- Omit tiny words your brain would fill in(the,a, like, thus).
+
+Later, when you review your notes, cover up the right-hand side and quiz yourself to see whether you can recall the deeper meaning from the summary words. 
+
+**If something seems particularly important, or involves material that might be on the test, put a start next to it.**
+
+
+- Concept Mapping 
+
+Concept mapping is an approach to organizing information to see how ideas and concepts relate to one another. 
+![Figure 7](./assets/figure7.jpg)
+
+- Review 
+
+The most important thing you can do with your notes is to *review them again before the end of the they*. Even if you're tired, spend a few minutes to pull the key ideas bak into your mind(don't just skim over the notes.)
+* A good review session including retrieval practice can be extraordinarily helpful in building those all-important set of links. This review can actually be more valuable than the note-taking itself. 
+
+**Above all, remember that it's not the note-taking it's what you get into your brain that matters** Event the best note are worthless if they're not used as the study tools they were meant to be. 
+
+- Partnering in Note-Taking
+
+Taking notes is important because it helps you stay focused, especially if you're in a class or workshop. 
+
+**KEY TAKEAWAYS** 
+FROM THE CHAPTER
+- **Working memory is oly a temporary holding place for thoughts and information.** When you put something in working memory, it can seem as if you've truly learned it. But learning only happens when you secure the idea, concept, or technique in long-term memory. 
+
+- **You can typically hold perhaps four pieces of information in your mind at once,** because your working memory has only a few "arms."
+
+- **You can compensate for the small size of your working memory by building sets of links in long-term memory.**
+
+- **You can compensate for the small size of your working memory by building sets of links in long-term memory.**
+
+- **To make the best use of your limited working memory:**
+ - Break material into chunks.
+ - Translate what you're leaning into more understandable terms.
+ - Make a task list to clear your working memory. 
+ - Put ideas on paper to extend your working memory.
+- **To take good notes:**
+ - Use the split notes system or make a concept map.
+ - Do a first-time review of your notes the same day you take them.
+ - Make sure you actively practice with and try to recall the key ideas of the notes.
+ 

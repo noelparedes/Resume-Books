@@ -13,7 +13,7 @@
  - [How to Focus Intently and Beat Procrastination](#How-to-focus-intently-and-beat-procrastination)
  - [How to Overcome Being Stuck](#How-to-Overcome-Being-Stuck)
  - [How to Learn Anything Deeply](#How-to-Learn-Anything-Deeply)
- - [How to Maximize Working Memory and Take Better Notes](#HowtoMaximizeWorkingMemoryandTakeBetterNotes)
+ - [How to Maximize Working Memory and Take Better Notes](#How-to-Maximize-Working-Memory-and-Take-Better-Notes)
  - [How to Memorize](#how-to-memorize)
  - [How to Gain Intuition and Think Fast](#how-to-gain-intuition-and-think-fast)  
  - [How to Exert Self-Discipline Even When You Don’t Have Any](#how-to-exert-self-discipline-even-when-you-don't-havea-ny)
@@ -136,6 +136,9 @@ FROM THE CHAPTER
 
  **Regularly get enough sleep**. Sleep is when your neural architecture grows. Spacing out your learning over several days will give more sleep periods, which will strengthen your learning. 
 
+ # How to Maximize Working Memory and Take Better Notes
+
+Pagina 50
  
 
 
