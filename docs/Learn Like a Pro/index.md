@@ -137,7 +137,7 @@ FROM THE CHAPTER
  **Regularly get enough sleep**. Sleep is when your neural architecture grows. Spacing out your learning over several days will give more sleep periods, which will strengthen your learning. 
 
  # How to Maximize Working Memory and Take Better Notes
- 
+
 **KEY TAKEAWAYS** 
 FROM THE CHAPTER
 - **Working memory is oly a temporary holding place for thoughts and information.** When you put something in working memory, it can seem as if you've truly learned it. But learning only happens when you secure the idea, concept, or technique in long-term memory. 
@@ -149,10 +149,12 @@ FROM THE CHAPTER
 - **You can compensate for the small size of your working memory by building sets of links in long-term memory.**
 
 - **To make the best use of your limited working memory:**
+
  - Break material into chunks.
  - Translate what you're leaning into more understandable terms.
  - Make a task list to clear your working memory. 
  - Put ideas on paper to extend your working memory.
+
 - **To take good notes:**
  - Use the split notes system or make a concept map.
  - Do a first-time review of your notes the same day you take them.
