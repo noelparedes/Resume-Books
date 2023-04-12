@@ -160,5 +160,18 @@ FROM THE CHAPTER
  - Do a first-time review of your notes the same day you take them.
  - Make sure you actively practice with and try to recall the key ideas of the notes.
 
+**KEY TAKEAWAYS**
+FROM THE CHAPTER
+
+
+-  **Memory and understanding are connected.** Having key information memorized so you can readily call it to mind releases
+mental power and helps you work more easily at higher conceptual levels. It also allows you to form mental patterns involving the subject you’re learning.
+- **To memorize information, test yourself through active recall (retrieval practice), spacing out your practice over at least several days.** To speed things up, see if you can use memory
+tricks such as:
+– Acronyms
+– Sentences
+– Vivid images
+– Memory Palace
+**Metaphors are useful for allowing you to more quickly grasp new concepts.**
 
 

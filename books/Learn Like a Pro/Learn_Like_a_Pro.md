@@ -33,7 +33,8 @@ Genre: ['Self-help', 'Productivity', 'Personal Growth']
    - [Sets of Links in Long-Term Memory Enhance Your Working Memory](#Sets-of-Links-in-Long-Term-Memory-Enhance-Your-Working-Memory)
    - [Making the Best Use of Your Working Memory](#Making-the-Best-Use-of-Your-Working-Memory)
    -[How to Take Better Notes](#How-to-Take-Better-Notes)
- - [How to Memorize](#howtomemorize)
+ - [How to Memorize](#how-to-memorize)
+   -[]
  - [How to Gain Intuition and Think Fast](#wowtogainintuitionandthinkfast)  
  - [How to Exert Self-Discipline Even When You Don’t Have Any](#howtoexertself-disciplineevenwhenyoudon'thaveany)
  - [How to Motivate Yourself](#howtomotivateyourself)
@@ -385,3 +386,41 @@ FROM THE CHAPTER
  - Do a first-time review of your notes the same day you take them.
  - Make sure you actively practice with and try to recall the key ideas of the notes.
  
+ # How to Memorize
+ 
+ **KEY POINT**
+ 1. Memorizing key pieces of information releases mental power so you can understand more complex concepts and solve more advanced problems.
+ 2. Not all memory techniques work for all kinds of material. When you need to memorize something, quickly consider different memory techniques and pick the one most suited to what you're trying to remember.
+
+
+ **Verbal Memory Tricks**
+ 
+ **Acronyms**
+You can use acronyms to remember words. e.g. The names of the three major ancient Greek philosophers, Socrates, Plato, and Aristotle form the acronym "SPA".
+
+**Sentences**
+
+Where each word corresponds to a word on your list. E.g
+"How I wish I could calculate pi" helps you remember seven digit of the pi, since the number of letters in each word corresponds to the digits of pi(3.141592).
+
+**Visual Memory Tricks**
+
+Have you noticed that it is easier to remember someone's face than their name?
+
+The easiest visual memory trick is to create an image that represents the concept your're trying to remember.
+
+**Memory Palace**
+
+**KEY TAKEAWAYS**
+FROM THE CHAPTER
+
+
+-  **Memory and understanding are connected.** Having key information memorized so you can readily call it to mind releases
+mental power and helps you work more easily at higher conceptual levels. It also allows you to form mental patterns involving the subject you’re learning.
+- **To memorize information, test yourself through active recall (retrieval practice), spacing out your practice over at least several days.** To speed things up, see if you can use memory
+tricks such as:
+– Acronyms
+– Sentences
+– Vivid images
+– Memory Palace
+**Metaphors are useful for allowing you to more quickly grasp new concepts.**
