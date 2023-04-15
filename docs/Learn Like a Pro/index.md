@@ -197,3 +197,16 @@ FROM THE CHAPTER
 – **Change existing habits that may be harming your ability to study by finding the habit cue and changing your response to it.**
 - Plan your goals and identify obstacles and the ideal way to respond to them ahead of time.
 - Involve others in your work to increase your commitment.
+
+**KEY TAKEAWAYS**
+FROM THE CHAPTER
+
+- **Motivation is not something you either have or don’t have it can be created, strengthened, and maintained using different techniques.**
+
+- **The best way to motivate yourself will vary, depending on the cause of your low motivation. It’s therefore wise to try different strategies.**
+- **Remind yourself of all the benefits of completing tasks.**
+- **Reward yourself for completing difficult tasks.**
+- **Make sure that a task’s level of difficulty matches your skill set.** Ask for help, break a task up, or allow yourself more time (if you can!).
+- **Use mental contrasting, both positive and negative.**
+- **Make your goals and ensure that they are SMART (Specific, Measurable, Ambitious, Realistic, and Time-limited).**
+- **Surround yourself with other students who are interested in the topics at hand.**
